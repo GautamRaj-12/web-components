@@ -9,12 +9,12 @@
   height: 100%;
   object-fit: cover;
 }
-.carousel__slide-container {
+.carousel__track-container {
   background-color: lightgreen;
   height: 100%;
   position: relative;
 }
-.carousel__slides {
+.carousel__track {
   margin: 0;
   padding: 0;
   list-style: none;
